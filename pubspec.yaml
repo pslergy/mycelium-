@@ -1,0 +1,9 @@
+﻿name: mycelium_core_open
+description: Public transport and mesh abstraction layer for resilient networking
+version: 0.1.0
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+dependencies:
+  http: ^1.2.0
