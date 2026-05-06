@@ -91,6 +91,6 @@ Please avoid adding adaptive or heuristic-based logic in this repository.
 
 ---
 
-## 📄 License
 
-(Add your license here — MIT or Apache 2.0 recommended)
+
+
